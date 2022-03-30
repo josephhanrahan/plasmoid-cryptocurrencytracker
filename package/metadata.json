@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Joseph Hanrahan"
+            }
+        ],
+        "Category": "Online Services",
+        "Description": "A Cryptocurrency Price Tracker",
+        "Icon": "coin",
+        "Id": "com.github.josephhanrahan.cryptocurrencytracker",
+        "Name": "CryptocurrencyTracker",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "",
+        "Website": ""
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
